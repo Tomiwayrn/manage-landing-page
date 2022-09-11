@@ -37,8 +37,8 @@ Users should be able to:
 ![](./screenshot-2.png)
 
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+- Live Site URL: [Add live site URL here](https://tomiwayrn.github.io/manage-landing-page/)
 
 ## My process
 
